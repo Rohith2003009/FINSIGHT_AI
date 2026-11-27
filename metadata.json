@@ -1,0 +1,6 @@
+{
+  "name": "FinSight AI – Multi-Agent Financial Research System",
+  "description": "Autonomous multi-agent financial research system backed by Python FastAPI, MongoDB Community Server & Compass, Pandas, NumPy, ReportLab, and Google Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
